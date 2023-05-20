@@ -78,6 +78,3 @@ while True:
   else:
     word_filter(input("Enter the results for the word: ").upper())
     print_solutions()
-    
-while True: # Infinite loop to keep console from closing after completion.
-  True
